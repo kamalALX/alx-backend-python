@@ -6,4 +6,7 @@
 
 
 def concat(str1: str, str2: str) -> str:
+    """ concat fuction returns a concatenated string composed of
+        str1 and str2
+    """
     return str(str1 + str2)
