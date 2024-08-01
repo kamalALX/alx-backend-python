@@ -8,4 +8,4 @@ import math
 
 def floor(n:float) -> int:
     """ floor method returns the floor of n """
-    return int (math.floor(n))
+    return int(math.floor(n))
